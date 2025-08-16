@@ -1,0 +1,5 @@
+{
+  "name": "Work Order Partner Evaluation",
+  "description": "An analytics tool to evaluate external partners based on performance data from Work Order Excel files. The application runs entirely in the browser, ensuring data privacy.",
+  "requestFramePermissions": []
+}
